@@ -1,7 +1,7 @@
 # mail-processing
 Teslimat numarası seçim ekranı, 
 
-![image](https://github.com/seda-yaman/mail-processing/assets/114253940/b2c80d20-4ac7-49eb-b745-9b073163f14e)
+![image](https://github.com/seda-yaman/mail-processing/assets/114253940/cb1bd713-eece-4b1a-aad0-7172fc38023c)
 
 Teslimat numarası çıkan search help’den seçilerek program çalıştırıldığında karşımıza gelen bilgi pop-up ekranı, 
 
